@@ -2,6 +2,7 @@
 # Projeto React e API's
 
 ![LabPoke](../mb-pokedex/src/Assets/img/pokemon.svg)
+
 O Projeto React e APIs é um site de pokémons clone de um protótipo de alta fidelidade disponibilizado no Figma.
 
 
